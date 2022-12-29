@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0442095.css",
+    "main.js": "/static/js/main.bf328509.js",
+    "static/media/Caveat-Regular.ttf": "/static/media/Caveat-Regular.ff4921b17fd01391c043.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/pattern.svg": "/static/media/pattern.d0139e17995b37092d9a.svg",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.66bb42240f2af664c95176d29ad934eb.svg",
+    "main.b0442095.css.map": "/static/css/main.b0442095.css.map",
+    "main.bf328509.js.map": "/static/js/main.bf328509.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0442095.css",
+    "static/js/main.bf328509.js"
+  ]
+}
